@@ -1,69 +1,500 @@
-1200	Genève	GE
-1201	Genève	GE
-1202	Genève	GE
-1203	Genève	GE
-1204	Genève	GE
-1205	Genève	GE
-1206	Genève	GE
-1207	Genève	GE
-1208	Genève	GE
-1209	Genève	GE
-1211	Genève	GE
-1212	Grand-Lancy	GE
-1213	Onex	GE
-1213	Petit-Lancy	GE
-1214	Vernier	GE
-1215	Genève	GE
-1216	Cointrin	GE
-1217	Meyrin	GE
-1218	Le Grand-Saconnex	GE
-1219	Châtelaine	GE
-1219	Le Lignon	GE
-1219	Aïre	GE
-1220	Les Avanchets	GE
-1222	Vésenaz	GE
-1223	Cologny	GE
-1224	Chêne-Bougeries	GE
-1225	Chêne-Bourg	GE
-1226	Thônex	GE
-1227	Les Acacias	GE
-1227	Carouge	GE
-1228	Plan-les-Ouates	GE
-1231	Conches	GE
-1232	Confignon	GE
-1233	Bernex	GE
-1234	Vessy	GE
-1236	Cartigny	GE
-1237	Avully	GE
-1239	Collex	GE
-1240	Genève	GE
-1241	Puplinge	GE
-1242	Satigny	GE
-1243	Presinge	GE
-1244	Choulex	GE
-1245	Collonge-Bellerive	GE
-1246	Corsier	GE
-1247	Anières	GE
-1248	Hermance	GE
-1251	Gy	GE
-1252	Meinier	GE
-1253	Vandoeuvres	GE
-1254	Jussy	GE
-1255	Veyrier	GE
-1256	Troinex	GE
-1257	La Croix-de-Rozon	GE
-1258	Perly	GE
-1281	Russin	GE
-1283	Dardagny	GE
-1283	La Plaine	GE
-1284	Chancy	GE
-1285	Athenaz (Avusy)	GE
-1286	Soral	GE
-1287	Laconnex	GE
-1288	Aire-la-Ville	GE
-1289	Genève	GE
-1290	Versoix	GE
-1292	Chambésy	GE
-1293	Bellevue	GE
-1294	Genthod	GE
-1298	Céligny	GE
+1000	Lausanne	VD	Vaud
+1001	Lausanne	VD	Vaud
+1002	Lausanne	VD	Vaud
+1003	Lausanne	VD	Vaud
+1004	Lausanne	VD	Vaud
+1005	Lausanne	VD	Vaud
+1006	Lausanne	VD	Vaud
+1007	Lausanne	VD	Vaud
+1008	Jouxtens-Mézery	VD	Vaud
+1008	Prilly	VD	Vaud
+1009	Pully	VD	Vaud
+1010	Lausanne	VD	Vaud
+1011	Lausanne	VD	Vaud
+1012	Lausanne	VD	Vaud
+1015	Lausanne	VD	Vaud
+1018	Lausanne	VD	Vaud
+1020	Renens	VD	Vaud
+1022	Chavannes-près-Renens	VD	Vaud
+1023	Crissier	VD	Vaud
+1024	Ecublens	VD	Vaud
+1025	St-Sulpice	VD	Vaud
+1026	Echandens	VD	Vaud
+1026	Denges	VD	Vaud
+1027	Lonay	VD	Vaud
+1028	Préverenges	VD	Vaud
+1029	Villars-Ste-Croix	VD	Vaud
+1030	Bussigny-près-Lausanne	VD	Vaud
+1031	Mex	VD	Vaud
+1032	Romanel-sur-Lausanne	VD	Vaud
+1033	Cheseaux-sur-Lausanne	VD	Vaud
+1034	Boussens	VD	Vaud
+1035	Bournens	VD	Vaud
+1036	Sullens	VD	Vaud
+1037	Etagnières	VD	Vaud
+1038	Bercher	VD	Vaud
+1039	Cheseaux Polyval	VD	Vaud
+1040	Echallens	VD	Vaud
+1040	St-Barthélemy	VD	Vaud
+1040	Villars-le-Terroir	VD	Vaud
+1041	Poliez-le-Grand	VD	Vaud
+1041	Bottens	VD	Vaud
+1041	Poliez-Pittet	VD	Vaud
+1041	Naz	VD	Vaud
+1041	Dommartin	VD	Vaud
+1041	Montaubion-Chardonney	VD	Vaud
+1042	Bioley-Orjulaz	VD	Vaud
+1042	Bettens	VD	Vaud
+1042	Assens	VD	Vaud
+1043	Sugnens	VD	Vaud
+1044	Fey	VD	Vaud
+1045	Ogens	VD	Vaud
+1046	Rueyres	VD	Vaud
+1047	Oppens	VD	Vaud
+1052	Le Mont-sur-Lausanne	VD	Vaud
+1053	Cugy	VD	Vaud
+1053	Bretigny-sur-Morrens	VD	Vaud
+1054	Morrens	VD	Vaud
+1055	Froideville	VD	Vaud
+1058	Villars-Tiercelin	VD	Vaud
+1059	Peney-le-Jorat	VD	Vaud
+1061	Villars-Mendraz	VD	Vaud
+1062	Sottens	VD	Vaud
+1063	Martherenges	VD	Vaud
+1063	Chapelle-sur-Moudon	VD	Vaud
+1063	Boulens	VD	Vaud
+1063	Peyres-Possens	VD	Vaud
+1066	Epalinges	VD	Vaud
+1068	Les Monts-de-Pully	VD	Vaud
+1070	Puidoux	VD	Vaud
+1071	Rivaz	VD	Vaud
+1071	St-Saphorin (Lavaux)	VD	Vaud
+1071	Chexbres	VD	Vaud
+1072	Forel (Lavaux)	VD	Vaud
+1073	Savigny	VD	Vaud
+1073	Mollie-Margot	VD	Vaud
+1076	Ferlens	VD	Vaud
+1077	Servion	VD	Vaud
+1078	Essertes	VD	Vaud
+1080	Les Cullayes	VD	Vaud
+1081	Montpreveyres	VD	Vaud
+1082	Corcelles-le-Jorat	VD	Vaud
+1083	Mézières	VD	Vaud
+1084	Carrouge	VD	Vaud
+1085	Vulliens	VD	Vaud
+1088	Ropraz	VD	Vaud
+1090	La Croix (Lutry)	VD	Vaud
+1091	Chenaux	VD	Vaud
+1091	Grandvaux	VD	Vaud
+1091	Aran	VD	Vaud
+1092	Belmont-sur-Lausanne	VD	Vaud
+1093	La Conversion	VD	Vaud
+1094	Paudex	VD	Vaud
+1095	Lutry	VD	Vaud
+1096	Villette (Lavaux)	VD	Vaud
+1096	Cully	VD	Vaud
+1097	Riex	VD	Vaud
+1098	Epesses	VD	Vaud
+1110	Morges	VD	Vaud
+1112	Echichens	VD	Vaud
+1113	St-Saphorin-sur-Morges	VD	Vaud
+1114	Colombier	VD	Vaud
+1115	Vullierens	VD	Vaud
+1116	Cottens	VD	Vaud
+1117	Grancy	VD	Vaud
+1121	Bremblens	VD	Vaud
+1122	Romanel-sur-Morges	VD	Vaud
+1123	Aclens	VD	Vaud
+1124	Gollion	VD	Vaud
+1125	Monnaz	VD	Vaud
+1126	Vaux-sur-Morges	VD	Vaud
+1127	Clarmont	VD	Vaud
+1128	Reverolle	VD	Vaud
+1131	Tolochenaz	VD	Vaud
+1132	Lully	VD	Vaud
+1134	Vufflens-le-Château	VD	Vaud
+1134	Chigny	VD	Vaud
+1135	Denens	VD	Vaud
+1136	Bussy-Chardonney	VD	Vaud
+1141	Sévery	VD	Vaud
+1142	Pampigny	VD	Vaud
+1143	Apples	VD	Vaud
+1144	Ballens	VD	Vaud
+1145	Bière	VD	Vaud
+1146	Mollens	VD	Vaud
+1147	Montricher	VD	Vaud
+1148	La Praz	VD	Vaud
+1148	Chavannes-le-Veyron	VD	Vaud
+1148	Villars-Bozon	VD	Vaud
+1148	La Coudre	VD	Vaud
+1148	Cuarnens	VD	Vaud
+1148	Moiry	VD	Vaud
+1148	Mont-la-Ville	VD	Vaud
+1148	Mauraz	VD	Vaud
+1148	L'Isle	VD	Vaud
+1149	Berolle	VD	Vaud
+1162	St-Prex	VD	Vaud
+1163	Etoy	VD	Vaud
+1164	Buchillon	VD	Vaud
+1165	Allaman	VD	Vaud
+1166	Perroy	VD	Vaud
+1167	Lussy-sur-Morges	VD	Vaud
+1168	Villars-sous-Yens	VD	Vaud
+1169	Yens	VD	Vaud
+1170	Aubonne	VD	Vaud
+1172	Bougy-Villars	VD	Vaud
+1173	Féchy	VD	Vaud
+1174	Montherod	VD	Vaud
+1174	Pizy	VD	Vaud
+1175	Lavigny	VD	Vaud
+1176	St-Livres	VD	Vaud
+1180	Tartegnin	VD	Vaud
+1180	Rolle	VD	Vaud
+1182	Gilly	VD	Vaud
+1183	Bursins	VD	Vaud
+1184	Luins	VD	Vaud
+1184	Vinzel	VD	Vaud
+1185	Mont-sur-Rolle	VD	Vaud
+1186	Essertines-sur-Rolle	VD	Vaud
+1187	St-Oyens	VD	Vaud
+1188	Gimel	VD	Vaud
+1188	St-George	VD	Vaud
+1189	Saubraz	VD	Vaud
+1195	Bursinel	VD	Vaud
+1195	Dully	VD	Vaud
+1196	Gland	VD	Vaud
+1197	Prangins	VD	Vaud
+1200	Genève	GE	Genève
+1201	Genève	GE	Genève
+1202	Genève	GE	Genève
+1203	Genève	GE	Genève
+1204	Genève	GE	Genève
+1205	Genève	GE	Genève
+1206	Genève	GE	Genève
+1207	Genève	GE	Genève
+1208	Genève	GE	Genève
+1209	Genève	GE	Genève
+1211	Genève	GE	Genève
+1212	Grand-Lancy	GE	Genève
+1213	Onex	GE	Genève
+1213	Petit-Lancy	GE	Genève
+1214	Vernier	GE	Genève
+1215	Genève	GE	Genève
+1216	Cointrin	GE	Genève
+1217	Meyrin	GE	Genève
+1218	Le Grand-Saconnex	GE	Genève
+1219	Châtelaine	GE	Genève
+1219	Le Lignon	GE	Genève
+1219	Aïre	GE	Genève
+1220	Les Avanchets	GE	Genève
+1222	Vésenaz	GE	Genève
+1223	Cologny	GE	Genève
+1224	Chêne-Bougeries	GE	Genève
+1225	Chêne-Bourg	GE	Genève
+1226	Thônex	GE	Genève
+1227	Les Acacias	GE	Genève
+1227	Carouge	GE	Genève
+1228	Plan-les-Ouates	GE	Genève
+1231	Conches	GE	Genève
+1232	Confignon	GE	Genève
+1233	Bernex	GE	Genève
+1234	Vessy	GE	Genève
+1236	Cartigny	GE	Genève
+1237	Avully	GE	Genève
+1239	Collex	GE	Genève
+1240	Genève	GE	Genève
+1241	Puplinge	GE	Genève
+1242	Satigny	GE	Genève
+1243	Presinge	GE	Genève
+1244	Choulex	GE	Genève
+1245	Collonge-Bellerive	GE	Genève
+1246	Corsier	GE	Genève
+1247	Anières	GE	Genève
+1248	Hermance	GE	Genève
+1251	Gy	GE	Genève
+1252	Meinier	GE	Genève
+1253	Vandoeuvres	GE	Genève
+1254	Jussy	GE	Genève
+1255	Veyrier	GE	Genève
+1256	Troinex	GE	Genève
+1257	La Croix-de-Rozon	GE	Genève
+1258	Perly	GE	Genève
+1260	Nyon	VD	Vaud
+1261	Longirod	VD	Vaud
+1261	Le Vaud	VD	Vaud
+1261	Marchissy
+1262	Eysins	VD	Vaud
+1263	Crassier	VD	Vaud
+1264	St-Cergue	VD	Vaud
+1265	La Cure	VD	Vaud
+1266	Duillier	VD	Vaud
+1267	Vich	VD	Vaud
+1267	Coinsins	VD	Vaud
+1268	Burtigny	VD	Vaud
+1268	Begnins	VD	Vaud
+1269	Bassins	VD	Vaud
+1270	Trélex	VD	Vaud
+1271	Givrins	VD	Vaud
+1272	Genolier	VD	Vaud
+1273	Le Muids	VD	Vaud
+1273	Arzier	VD	Vaud
+1274	Grens	VD	Vaud
+1274	Signy	VD	Vaud
+1275	Chéserex	VD	Vaud
+1276	Gingins	VD	Vaud
+1277	Borex	VD	Vaud
+1277	Arnex-sur-Nyon	VD	Vaud
+1278	La Rippe	VD	Vaud
+1279	Chavannes-de-Bogis	VD	Vaud
+1279	Bogis-Bossey	VD	Vaud
+1281	Russin	GE	Genève
+1283	Dardagny	GE	Genève
+1283	La Plaine	GE	Genève
+1284	Chancy	GE	Genève
+1285	Athenaz (Avusy)	GE	Genève
+1286	Soral	GE	Genève
+1287	Laconnex	GE	Genève
+1288	Aire-la-Ville	GE	Genève
+1289	Genève	GE	Genève
+1290	Versoix	GE	Genève
+1290	Chavannes-des-Bois	VD	Vaud
+1291	Commugny	VD	Vaud
+1292	Chambésy	GE	Genève
+1293	Bellevue	GE	Genève
+1294	Genthod	GE	Genève
+1295	Mies	VD	Vaud
+1295	Tannay	VD	Vaud
+1296	Coppet	VD	Vaud
+1297	Founex	VD	Vaud
+1298	Céligny	GE	Genève
+1299	Crans-près-Céligny	VD	Vaud
+1300	Eclépens	VD	Vaud
+1302	Vufflens-la-Ville	VD	Vaud
+1303	Penthaz	VD	Vaud
+1304	Dizy	VD	Vaud
+1304	Senarclens	VD	Vaud
+1304	Allens	VD	Vaud
+1304	Cossonay-Ville	VD	Vaud
+1305	Penthalaz	VD	Vaud
+1306	Daillens	VD	Vaud
+1307	Lussery-Villars	VD	Vaud
+1308	La Chaux (Cossonay)	VD	Vaud
+1310	Daillens	VD	Vaud
+1311	Eclépens	VD	Vaud
+1312	Eclépens	VD	Vaud
+1313	Ferreyres	VD	Vaud
+1315	La Sarraz	VD	Vaud
+1316	Chevilly	VD	Vaud
+1317	Orny	VD	Vaud
+1318	Pompaples	VD	Vaud
+1320	Daillens	VD	Vaud
+1321	Arnex-sur-Orbe	VD	Vaud
+1322	Croy	VD	Vaud
+1323	Romainmôtier	VD	Vaud
+1324	Premier	VD	Vaud
+1325	Vaulion	VD	Vaud
+1326	Juriens	VD	Vaud
+1329	Bretonnières	VD	Vaud
+1330	Daillens	VD	Vaud
+1337	Vallorbe	VD	Vaud
+1338	Ballaigues	VD	Vaud
+1341	Orient	VD	Vaud
+1342	Le Pont	VD	Vaud
+1343	Les Charbonnières	VD	Vaud
+1344	L'Abbaye	VD	Vaud
+1345	Le Lieu	VD	Vaud
+1346	Les Bioux	VD	Vaud
+1347	Le Sentier	VD	Vaud
+1347	Le Solliat	VD	Vaud
+1348	Le Brassus	VD	Vaud
+1350	Orbe	VD	Vaud
+1352	Agiez	VD	Vaud
+1353	Bofflens	VD	Vaud
+1354	Montcherand	VD	Vaud
+1355	Sergey	VD	Vaud
+1355	L'Abergement	VD	Vaud
+1356	La Russille	VD	Vaud
+1356	Les Clées	VD	Vaud
+1357	Lignerolle	VD	Vaud
+1358	Valeyres-sous-Rances	VD	Vaud
+1372	Bavois	VD	Vaud
+1373	Chavornay	VD	Vaud
+1374	Corcelles-sur-Chavornay	VD	Vaud
+1375	Penthéréaz	VD	Vaud
+1376	Eclagnens	VD	Vaud
+1376	Goumoens-la-Ville	VD	Vaud
+1376	Goumoens-le-Jux	VD	Vaud
+1377	Oulens-sous-Echallens	VD	Vaud
+1400	Yverdon-les-Bains	VD	Vaud
+1400	Cheseaux-Noréaz	VD	Vaud
+1401	Yverdon-les-Bains	VD	Vaud
+1404	Cuarny	VD	Vaud
+1404	Villars-Epeney	VD	Vaud
+1405	Pomy	VD	Vaud
+1406	Cronay	VD	Vaud
+1407	Donneloye	VD	Vaud
+1407	Gossens	VD	Vaud
+1407	Mézery-près-Donneloye	VD	Vaud
+1407	Bioley-Magnoux	VD	Vaud
+1408	Prahins	VD	Vaud
+1409	Chanéaz	VD	Vaud
+1410	Prévondavaux	FR	Fribourg
+1410	Thierrens	VD	Vaud
+1410	St-Cierges	VD	Vaud
+1410	Correvon	VD	Vaud
+1410	Denezy	VD	Vaud
+1412	Ursins	VD	Vaud
+1412	Valeyres-sous-Ursins	VD	Vaud
+1413	Orzens	VD	Vaud
+1415	Molondin	VD	Vaud
+1415	Démoret	VD	Vaud
+1416	Pailly	VD	Vaud
+1417	Epautheyres	VD	Vaud
+1417	Essertines-sur-Yverdon	VD	Vaud
+1418	Vuarrens	VD	Vaud
+1420	Fiez	VD	Vaud
+1421	Grandevent	VD	Vaud
+1421	Fontaines-sur-Grandson	VD	Vaud
+1422	Grandson	VD	Vaud
+1423	Vaugondry	VD	Vaud
+1423	Fontanezier	VD	Vaud
+1423	Romairon	VD	Vaud
+1423	Villars-Burquin	VD	Vaud
+1424	Champagne	VD	Vaud
+1425	Onnens	VD	Vaud
+1426	Concise	VD	Vaud
+1426	Corcelles-près-Concise	VD	Vaud
+1427	Bonvillars	VD	Vaud
+1428	Provence	VD	Vaud
+1428	Mutrux	VD	Vaud
+1429	Giez	VD	Vaud
+1430	Orges	VD	Vaud
+1431	Novalles	VD	Vaud
+1431	Vugelles-La Mothe	VD	Vaud
+1432	Gressy	VD	Vaud
+1432	Belmont-sur-Yverdon	VD	Vaud
+1433	Suchy	VD	Vaud
+1434	Ependes	VD	Vaud
+1435	Essert-Pittet	VD	Vaud
+1436	Treycovagnes	VD	Vaud
+1436	Chamblon	VD	Vaud
+1437	Suscévaz	VD	Vaud
+1438	Mathod	VD	Vaud
+1439	Rances	VD	Vaud
+1440	Montagny-Chamard	VD	Vaud
+1441	Valeyres-sous-Montagny	VD	Vaud
+1442	Montagny-près-Yverdon	VD	Vaud
+1443	Essert-sous-Champvent	VD	Vaud
+1443	Champvent	VD	Vaud
+1443	Villars-sous-Champvent	VD	Vaud
+1445	Vuiteboeuf	VD	Vaud
+1446	Baulmes	VD	Vaud
+1450	Le Château-de-Ste-Croix	VD	Vaud
+1450	La Sagne (Ste-Croix)	VD	Vaud
+1450	Ste-Croix	VD	Vaud
+1452	Les Rasses	VD	Vaud
+1453	Mauborget	VD	Vaud
+1453	Bullet	VD	Vaud
+1454	L'Auberson	VD	Vaud
+1454	La Vraconnaz	VD	Vaud
+1462	Yvonand	VD	Vaud
+1463	Rovray	VD	Vaud
+1464	Chavannes-le-Chêne	VD	Vaud
+1464	Chêne-Pâquier	VD	Vaud
+1468	Cheyres	FR	Fribourg
+1470	Seiry	FR	Fribourg
+1470	Bollion	FR	Fribourg
+1470	Lully	FR	Fribourg
+1470	Estavayer-le-Lac	FR	Fribourg
+1473	Font	FR	Fribourg
+1473	Châtillon	FR	Fribourg
+1474	Châbles	FR	Fribourg
+1475	Autavaux	FR	Fribourg
+1475	Montbrelloz	FR	Fribourg
+1475	Forel	FR	Fribourg
+1482	Cugy	FR	Fribourg
+1483	Frasses	FR	Fribourg
+1483	Montet (Broye)	FR	Fribourg
+1483	Vesin	FR	Fribourg
+1484	Granges-de-Vesin	FR	Fribourg
+1484	Aumont	FR	Fribourg
+1485	Nuvilly	FR	Fribourg
+1486	Vuissens	FR	Fribourg
+1489	Murist	FR	Fribourg
+1509	Vucherens	VD	Vaud
+1510	Syens	VD	Vaud
+1510	Moudon	VD	Vaud
+1512	Chavannes-sur-Moudon	VD	Vaud
+1513	Hermenches	VD	Vaud
+1513	Rossenges	VD	Vaud
+1514	Bussy-sur-Moudon	VD	Vaud
+1515	Villars-le-Comte	VD	Vaud
+1515	Neyruz-sur-Moudon	VD	Vaud
+1521	Curtilles	VD	Vaud
+1522	Oulens-sur-Lucens	VD	Vaud
+1522	Lucens	VD	Vaud
+1523	Granges-près-Marnand	VD	Vaud
+1524	Marnand	VD	Vaud
+1525	Seigneux	VD	Vaud
+1525	Henniez	VD	Vaud
+1526	Forel-sur-Lucens	VD	Vaud
+1526	Cremin	VD	Vaud
+1527	Villeneuve	FR	Fribourg
+1528	Surpierre	FR	Fribourg
+1528	Praratoud	FR	Fribourg
+1529	Cheiry	FR	Fribourg
+1530	Payerne	VD	Vaud
+1532	Fétigny	FR	Fribourg
+1533	Ménières	FR	Fribourg
+1534	Chapelle (Broye)	FR	Fribourg
+1534	Sassel	VD	Vaud
+1535	Combremont-le-Grand	VD	Vaud
+1536	Combremont-le-Petit	VD	Vaud
+1537	Champtauroz	VD	Vaud
+1538	Treytorrens (Payerne)	VD	Vaud
+1541	Sévaz	FR	Fribourg
+1541	Morens	FR	Fribourg
+1541	Bussy	FR	Fribourg
+1542	Rueyres-les-Prés	FR	Fribourg
+1543	Grandcour	VD	Vaud
+1544	Gletterens	FR	Fribourg
+1545	Chevroux	VD	Vaud
+1551	Vers-chez-Perrin	VD	Vaud
+1552	Trey	VD	Vaud
+1553	Châtonnaye	FR	Fribourg
+1554	Sédeilles	VD	Vaud
+1554	Rossens	VD	Vaud
+1555	Villarzel	VD	Vaud
+1562	Corcelles-près-Payerne	VD	Vaud
+1563	Dompierre	FR	Fribourg
+1564	Domdidier	FR	Fribourg
+1565	Vallon	FR	Fribourg
+1565	Missy	VD	Vaud
+1566	St-Aubin	FR	Fribourg
+1566	Les Friques	FR	Fribourg
+1567	Delley	FR	Fribourg
+1568	Portalban	FR	Fribourg
+1580	Avenches	VD	Vaud
+1580	Oleyres	VD	Vaud
+1582	Donatyre	VD	Vaud
+1583	Villarepos	FR	Fribourg
+1584	Villars-le-Grand	VD	Vaud
+1585	Salavaux	VD	Vaud
+1585	Cotterd	VD	Vaud
+1585	Bellerive	VD	Vaud
+1586	Vallamand	VD	Vaud
+1587	Constantine	VD	Vaud
+1587	Montmagny	VD	Vaud
+1588	Cudrefin	VD	Vaud
+1589	Chabrey	VD	Vaud
+1595	Clavaleyres	BE	Berne
+1595	Faoug	VD	Vaud
+1607	Les Tavernes	VD	Vaud
+1607	Palézieux-Village	VD	Vaud
+1607	Les Thioleyres	VD	Vaud
+1607	Palézieux	VD	Vaud
+1608	Chapelle (Glâne)	FR	Fribourg
+1608	Bussigny-sur-Oron	VD	Vaud
+1608	Chesalles-sur-Oron	VD	Vaud
+1608	Oron-le-Châtel	VD	Vaud
+1609	Besencens	FR	Fribourg
