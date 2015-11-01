@@ -1,0 +1,23 @@
+{
+  "name": "switzerland-postal-codes",
+  "version": "0.0.2",
+  "description": "Switzerland postal codes Javascript module",
+  "keywords": [
+    "switzerland",
+    "postal",
+    "codes",
+    "zip",
+  ],
+  "authors": [
+    "William Belle <william.belle@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "dist/postal-codes.json",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
