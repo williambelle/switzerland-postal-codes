@@ -16,6 +16,18 @@ $ npm install switzerland-postal-codes
 
 Then you can `require('switzerland-postal-codes')`.
 
+### Bower
+
+```bash
+$ bower install switzerland-postal-codes
+```
+
+Then use `dist/postal-codes.json` in your HTML.
+
+### Download
+
+Download `postal-codes.json` from [Release](https://github.com/williambelle/switzerland-postal-codes/releases)
+
 Demo
 ----
 
