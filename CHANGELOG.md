@@ -1,6 +1,10 @@
 Switzerland Postal Codes Changelog
 ==================================
 
+### v0.0.3 / 2015-11-05
+
+ - Update postal codes
+
 ### v0.0.2 / 2015-11-02
 
  - Add Bower manifest
