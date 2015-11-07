@@ -15,8 +15,8 @@
       cologny.should.equal('Mies - Tannay');
     });
 
-    it("should contains at least 650 items", function(){
-      var enoughLocation = Object.keys(codes).length > 650;
+    it("should contains at least 1500 items", function(){
+      var enoughLocation = Object.keys(codes).length > 1500;
       enoughLocation.should.equal(true);
     });
   });
