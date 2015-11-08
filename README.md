@@ -16,6 +16,11 @@ $ npm install switzerland-postal-codes
 
 Then you can `require('switzerland-postal-codes')`.
 
+```js
+var postalCodes = require('switzerland-postal-codes');
+console.log(postalCodes['1260']);
+```
+
 ### Bower
 
 ```bash
@@ -32,6 +37,16 @@ Demo
 ----
 
 See the [demo](https://williambelle.github.io/switzerland-postal-codes/).
+
+Build
+-----
+
+You need Node.js, then `cd` into this folder and
+
+```bash
+$ npm install
+$ ./src/converter.js
+```
 
 License
 -------
