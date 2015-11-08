@@ -3503,7 +3503,7 @@
 8152	Glattpark (Opfikon)	ZH	Zurich
 8152	Glattbrugg	ZH	Zurich
 8153	Rümlang	ZH	Zurich
-8154	Oberglatt ZH	ZH	Zurich
+8154	Oberglatt	ZH	Zurich
 8155	Niederhasli	ZH	Zurich
 8155	Nassenwil	ZH	Zurich
 8156	Oberhasli	ZH	Zurich
@@ -3724,7 +3724,7 @@
 8484	Weisslingen	ZH	Zurich
 8484	Theilingen	ZH	Zurich
 8486	Rikon im Tösstal	ZH	Zurich
-8487	Zell ZH	ZH	Zurich
+8487	Zell	ZH	Zurich
 8487	Rämismühle	ZH	Zurich
 8488	Turbenthal	ZH	Zurich
 8489	Wildberg	ZH	Zurich
@@ -3769,7 +3769,7 @@
 8537	Nussbaumen	TG	Thurgovie
 8542	Wiesendangen	ZH	Zurich
 8543	Gundetswil	ZH	Zurich
-8543	Kefikon ZH	ZH	Zurich
+8543	Kefikon	ZH	Zurich
 8543	Bertschikon	ZH	Zurich
 8544	Attikon	ZH	Zurich
 8545	Rickenbach Sulz	ZH	Zurich
@@ -4004,7 +4004,7 @@
 8857	Vorderthal	SZ	Schwytz
 8858	Innerthal	SZ	Schwytz
 8862	Schübelbach	SZ	Schwytz
-8863	Buttikon SZ	SZ	Schwytz
+8863	Buttikon	SZ	Schwytz
 8864	Reichenburg	SZ	Schwytz
 8865	Bilten	GL	Glaris
 8866	Ziegelbrücke	GL	Glaris
@@ -4070,7 +4070,6 @@
 8965	Berikon	AG	Argovie
 8966	Oberwil-Lieli	AG	Argovie
 8967	Widen	AG	Argovie
-8970	Urdorf Exchange	ZH	Zurich
 9000	St. Gallen	SG	Saint-Gall
 9001	St. Gallen	SG	Saint-Gall
 9004	St. Gallen	SG	Saint-Gall
@@ -4111,7 +4110,7 @@
 9050	Appenzell Schlatt	AI	Appenzell Rhodes-Intérieures
 9052	Niederteufen	AR	Appenzell Rhodes-Extérieures
 9053	Teufen	AR	Appenzell Rhodes-Extérieures
-9054	Haslen AI	AI	Appenzell Rhodes-Intérieures
+9054	Haslen	AI	Appenzell Rhodes-Intérieures
 9055	Bühler	AR	Appenzell Rhodes-Extérieures
 9056	Gais	AR	Appenzell Rhodes-Extérieures
 9057	Weissbad	AI	Appenzell Rhodes-Intérieures
@@ -4119,7 +4118,7 @@
 9057	Schwende	AI	Appenzell Rhodes-Intérieures
 9058	Brülisau	AI	Appenzell Rhodes-Intérieures
 9062	Lustmühle	AR	Appenzell Rhodes-Extérieures
-9063	Stein AR	AR	Appenzell Rhodes-Extérieures
+9063	Stein	AR	Appenzell Rhodes-Extérieures
 9064	Hundwil	AR	Appenzell Rhodes-Extérieures
 9100	Herisau	AR	Appenzell Rhodes-Extérieures
 9101	Herisau	AR	Appenzell Rhodes-Extérieures
@@ -4192,7 +4191,7 @@
 9320	Frasnacht	TG	Thurgovie
 9322	Egnach	TG	Thurgovie
 9323	Steinach	SG	Saint-Gall
-9325	Roggwil TG	TG	Thurgovie
+9325	Roggwil	TG	Thurgovie
 9326	Horn	TG	Thurgovie
 9327	Tübach	SG	Saint-Gall
 9400	Rorschach	SG	Saint-Gall
@@ -4237,8 +4236,8 @@
 9468	Sax	SG	Saint-Gall
 9469	Haag (Rheintal)	SG	Saint-Gall
 9470	Werdenberg	SG	Saint-Gall
-9470	Buchs SG	SG	Saint-Gall
-9471	Buchs SG 1	SG	Saint-Gall
+9470	Buchs	SG	Saint-Gall
+9471	Buchs	SG	Saint-Gall
 9472	Grabserberg	SG	Saint-Gall
 9472	Grabs	SG	Saint-Gall
 9473	Gams	SG	Saint-Gall
@@ -4250,8 +4249,8 @@
 9479	Malans	SG	Saint-Gall
 9479	Oberschan	SG	Saint-Gall
 9479	Gretschins	SG	Saint-Gall
-9500	Wil SG	SG	Saint-Gall
-9501	Wil SG 1	SG	Saint-Gall
+9500	Wil	SG	Saint-Gall
+9501	Wil	SG	Saint-Gall
 9502	Braunau	TG	Thurgovie
 9503	Stehrenberg	TG	Thurgovie
 9503	Lanterswil	TG	Thurgovie
