@@ -597,10 +597,10 @@
 1681	Billens	FR	Fribourg
 1681	Hennens	FR	Fribourg
 1682	Prévonloup	VD	Vaud
-1682	Dompierre VD	VD	Vaud
+1682	Dompierre	VD	Vaud
 1682	Lovatens	VD	Vaud
 1682	Villars-Bramard	VD	Vaud
-1682	Cerniaz VD	VD	Vaud
+1682	Cerniaz	VD	Vaud
 1683	Brenles	VD	Vaud
 1683	Sarzens	VD	Vaud
 1683	Chesalles-sur-Moudon	VD	Vaud
@@ -698,7 +698,7 @@
 1753	Matran	FR	Fribourg
 1754	Rosé	FR	Fribourg
 1754	Avry-sur-Matran	FR	Fribourg
-1754	Avry-Centre FR	FR	Fribourg
+1754	Avry-Centre	FR	Fribourg
 1754	Corjolens	FR	Fribourg
 1756	Onnens	FR	Fribourg
 1756	Lovens	FR	Fribourg
@@ -2335,7 +2335,7 @@
 5325	Leibstadt	AG	Argovie
 5326	Schwaderloch	AG	Argovie
 5330	Bad Zurzach	AG	Argovie
-5332	Rekingen AG	AG	Argovie
+5332	Rekingen	AG	Argovie
 5333	Baldingen	AG	Argovie
 5334	Böbikon	AG	Argovie
 5400	Baden	AG	Argovie
@@ -2762,7 +2762,7 @@
 6532	Castione	TI	Tessin
 6533	Lumino	TI	Tessin
 6534	S. Vittore	GR	Tessin
-6535	Roveredo GR	GR	Tessin
+6535	Roveredo	GR	Tessin
 6537	Grono	GR	Tessin
 6538	Verdabbio	GR	Tessin
 6538	Verdabbio	GR	Tessin
@@ -3498,3 +3498,828 @@
 8136	Gattikon	ZH	Zurich
 8142	Uitikon Waldegg	ZH	Zurich
 8143	Uetliberg	ZH	Zurich
+8143	Stallikon	ZH	Zurich
+8152	Opfikon	ZH	Zurich
+8152	Glattpark (Opfikon)	ZH	Zurich
+8152	Glattbrugg	ZH	Zurich
+8153	Rümlang	ZH	Zurich
+8154	Oberglatt ZH	ZH	Zurich
+8155	Niederhasli	ZH	Zurich
+8155	Nassenwil	ZH	Zurich
+8156	Oberhasli	ZH	Zurich
+8157	Dielsdorf	ZH	Zurich
+8158	Regensberg	ZH	Zurich
+8162	Sünikon	ZH	Zurich
+8162	Steinmaur	ZH	Zurich
+8164	Bachs	ZH	Zurich
+8165	Schöfflisdorf	ZH	Zurich
+8165	Schleinikon	ZH	Zurich
+8165	Oberweningen	ZH	Zurich
+8166	Niederweningen	ZH	Zurich
+8172	Niederglatt	ZH	Zurich
+8173	Neerach	ZH	Zurich
+8174	Stadel b. Niederglatt	ZH	Zurich
+8175	Windlach	ZH	Zurich
+8180	Bülach	ZH	Zurich
+8181	Höri	ZH	Zurich
+8182	Hochfelden	ZH	Zurich
+8183	Bülach Dist Ba	ZH	Zurich
+8184	Bachenbülach	ZH	Zurich
+8185	Winkel	ZH	Zurich
+8187	Weiach	ZH	Zurich
+8192	Zweidlen	ZH	Zurich
+8192	Glattfelden	ZH	Zurich
+8193	Eglisau	ZH	Zurich
+8194	Hüntwangen	ZH	Zurich
+8195	Wasterkingen	ZH	Zurich
+8196	Wil	ZH	Zurich
+8197	Rafz	ZH	Zurich
+8200	Schaffhausen	SH	Schaffhouse
+8201	Schaffhausen	SH	Schaffhouse
+8202	Schaffhausen	SH	Schaffhouse
+8203	Schaffhausen	SH	Schaffhouse
+8204	Schaffhausen	SH	Schaffhouse
+8205	Schaffhausen	SH	Schaffhouse
+8207	Schaffhausen	SH	Schaffhouse
+8208	Schaffhausen	SH	Schaffhouse
+8210	Schaffhausen Dist Ba	SH	Schaffhouse
+8212	Neuhausen am Rheinfall	SH	Schaffhouse
+8212	Nohl	ZH	Zurich
+8213	Neunkirch	SH	Schaffhouse
+8214	Gächlingen	SH	Schaffhouse
+8215	Hallau	SH	Schaffhouse
+8216	Oberhallau	SH	Schaffhouse
+8217	Wilchingen	SH	Schaffhouse
+8218	Osterfingen	SH	Schaffhouse
+8219	Trasadingen	SH	Schaffhouse
+8222	Beringen	SH	Schaffhouse
+8223	Guntmadingen	SH	Schaffhouse
+8224	Löhningen	SH	Schaffhouse
+8225	Siblingen	SH	Schaffhouse
+8226	Schleitheim	SH	Schaffhouse
+8228	Beggingen	SH	Schaffhouse
+8231	Hemmental	SH	Schaffhouse
+8232	Merishausen	SH	Schaffhouse
+8233	Bargen	SH	Schaffhouse
+8234	Stetten	SH	Schaffhouse
+8235	Lohn	SH	Schaffhouse
+8236	Opfertshofen	SH	Schaffhouse
+8236	Büttenhardt	SH	Schaffhouse
+8239	Dörflingen	SH	Schaffhouse
+8240	Thayngen	SH	Schaffhouse
+8241	Barzheim	SH	Schaffhouse
+8242	Hofen	SH	Schaffhouse
+8242	Bibern	SH	Schaffhouse
+8243	Altdorf	SH	Schaffhouse
+8245	Feuerthalen	ZH	Zurich
+8246	Langwiesen	ZH	Zurich
+8247	Flurlingen	ZH	Zurich
+8248	Uhwiesen	ZH	Zurich
+8252	Schlatt	TG	Thurgovie
+8253	Willisdorf	TG	Thurgovie
+8253	Diessenhofen	TG	Thurgovie
+8254	Basadingen	TG	Thurgovie
+8255	Schlattingen	TG	Thurgovie
+8259	Rheinklingen	TG	Thurgovie
+8259	Kaltenbach	TG	Thurgovie
+8259	Etzwilen	TG	Thurgovie
+8259	Wagenhausen	TG	Thurgovie
+8260	Stein am Rhein	SH	Schaffhouse
+8261	Hemishofen	SH	Schaffhouse
+8262	Ramsen	SH	Schaffhouse
+8263	Buch	SH	Schaffhouse
+8264	Eschenz	TG	Thurgovie
+8265	Mammern	TG	Thurgovie
+8266	Steckborn	TG	Thurgovie
+8267	Berlingen	TG	Thurgovie
+8268	Salenstein	TG	Thurgovie
+8268	Mannenbach-Salenstein	TG	Thurgovie
+8269	Fruthwilen	TG	Thurgovie
+8272	Ermatingen	TG	Thurgovie
+8273	Triboltingen	TG	Thurgovie
+8274	Tägerwilen	TG	Thurgovie
+8274	Gottlieben	TG	Thurgovie
+8280	Kreuzlingen	TG	Thurgovie
+8301	Glattzentrum b. Wallisellen	ZH	Zurich
+8302	Kloten	ZH	Zurich
+8303	Bassersdorf	ZH	Zurich
+8304	Wallisellen	ZH	Zurich
+8305	Dietlikon	ZH	Zurich
+8306	Brüttisellen	ZH	Zurich
+8307	Ottikon b. Kemptthal	ZH	Zurich
+8307	Effretikon	ZH	Zurich
+8308	Agasul	ZH	Zurich
+8308	Illnau	ZH	Zurich
+8309	Nürensdorf	ZH	Zurich
+8310	Kemptthal	ZH	Zurich
+8310	Grafstal	ZH	Zurich
+8311	Brütten	ZH	Zurich
+8312	Winterberg	ZH	Zurich
+8314	Kyburg	ZH	Zurich
+8315	Lindau	ZH	Zurich
+8317	Tagelswangen	ZH	Zurich
+8320	Fehraltorf	ZH	Zurich
+8322	Madetswil	ZH	Zurich
+8322	Gündisau	ZH	Zurich
+8325	Effretikon Dist Ba	ZH	Zurich
+8330	Pfäffikon	ZH	Zurich
+8330	Hermatswil	ZH	Zurich
+8331	Auslikon	ZH	Zurich
+8332	Russikon	ZH	Zurich
+8332	Rumlikon	ZH	Zurich
+8335	Hittnau	ZH	Zurich
+8340	Hinwil	ZH	Zurich
+8342	Wernetshausen	ZH	Zurich
+8343	Hinwil Dist Ba	ZH	Zurich
+8344	Bäretswil	ZH	Zurich
+8345	Adetswil	ZH	Zurich
+8352	Ricketwil (Winterthur)	ZH	Zurich
+8352	Elsau	ZH	Zurich
+8353	Elgg	ZH	Zurich
+8354	Hofstetten	ZH	Zurich
+8355	Aadorf	TG	Thurgovie
+8356	Ettenhausen	TG	Thurgovie
+8357	Guntershausen b. Aadorf	TG	Thurgovie
+8360	Wallenwil	TG	Thurgovie
+8360	Eschlikon	TG	Thurgovie
+8362	Balterswil	TG	Thurgovie
+8363	Bichelsee	TG	Thurgovie
+8370	Sirnach	TG	Thurgovie
+8371	Busswil	TG	Thurgovie
+8372	Wiezikon b. Sirnach	TG	Thurgovie
+8374	Oberwangen	TG	Thurgovie
+8374	Dussnang	TG	Thurgovie
+8376	Au	TG	Thurgovie
+8376	Fischingen	TG	Thurgovie
+8400	Winterthur	ZH	Zurich
+8401	Winterthur	ZH	Zurich
+8402	Winterthur	ZH	Zurich
+8404	Winterthur	ZH	Zurich
+8404	Stadel (Winterthur)	ZH	Zurich
+8404	Reutlingen (Winterthur)	ZH	Zurich
+8405	Winterthur	ZH	Zurich
+8406	Winterthur	ZH	Zurich
+8408	Winterthur	ZH	Zurich
+8409	Winterthur	ZH	Zurich
+8410	Winterthur	ZH	Zurich
+8411	Winterthur	ZH	Zurich
+8412	Aesch (Neftenbach)	ZH	Zurich
+8412	Hünikon (Neftenbach)	ZH	Zurich
+8412	Riet (Neftenbach)	ZH	Zurich
+8413	Neftenbach	ZH	Zurich
+8414	Buch am Irchel	ZH	Zurich
+8415	Gräslikon	ZH	Zurich
+8415	Berg am Irchel	ZH	Zurich
+8416	Flaach	ZH	Zurich
+8418	Schlatt b. Winterthur	ZH	Zurich
+8421	Dättlikon	ZH	Zurich
+8422	Pfungen	ZH	Zurich
+8423	Embrach-Embraport	ZH	Zurich
+8424	Embrach	ZH	Zurich
+8425	Oberembrach	ZH	Zurich
+8426	Lufingen	ZH	Zurich
+8427	Rorbas	ZH	Zurich
+8427	Freienstein	ZH	Zurich
+8428	Teufen	ZH	Zurich
+8442	Hettlingen	ZH	Zurich
+8444	Henggart	ZH	Zurich
+8447	Dachsen	ZH	Zurich
+8450	Andelfingen	ZH	Zurich
+8451	Kleinandelfingen	ZH	Zurich
+8452	Adlikon b. Andelfingen	ZH	Zurich
+8453	Alten	ZH	Zurich
+8454	Buchberg	SH	Schaffhouse
+8455	Rüdlingen	SH	Schaffhouse
+8455	Buchberg	SH	Schaffhouse
+8455	Buchberg	SH	Schaffhouse
+8457	Humlikon	ZH	Zurich
+8458	Dorf	ZH	Zurich
+8459	Volken	ZH	Zurich
+8460	Marthalen	ZH	Zurich
+8461	Oerlingen	ZH	Zurich
+8462	Rheinau	ZH	Zurich
+8463	Benken	ZH	Zurich
+8464	Ellikon am Rhein	ZH	Zurich
+8465	Wildensbuch	ZH	Zurich
+8465	Rudolfingen	ZH	Zurich
+8466	Trüllikon	ZH	Zurich
+8467	Truttikon	ZH	Zurich
+8468	Waltalingen	ZH	Zurich
+8468	Guntalingen	ZH	Zurich
+8471	Oberwil (Dägerlen)	ZH	Zurich
+8471	Rutschwil (Dägerlen)	ZH	Zurich
+8471	Dägerlen	ZH	Zurich
+8471	Berg (Dägerlen)	ZH	Zurich
+8471	Bänk (Dägerlen)	ZH	Zurich
+8472	Seuzach	ZH	Zurich
+8474	Dinhard	ZH	Zurich
+8475	Ossingen	ZH	Zurich
+8476	Unterstammheim	ZH	Zurich
+8477	Oberstammheim	ZH	Zurich
+8478	Thalheim an der Thur	ZH	Zurich
+8479	Altikon	ZH	Zurich
+8482	Sennhof (Winterthur)	ZH	Zurich
+8483	Kollbrunn	ZH	Zurich
+8484	Neschwil	ZH	Zurich
+8484	Weisslingen	ZH	Zurich
+8484	Theilingen	ZH	Zurich
+8486	Rikon im Tösstal	ZH	Zurich
+8487	Zell ZH	ZH	Zurich
+8487	Rämismühle	ZH	Zurich
+8488	Turbenthal	ZH	Zurich
+8489	Wildberg	ZH	Zurich
+8492	Wila	ZH	Zurich
+8493	Saland	ZH	Zurich
+8494	Bauma	ZH	Zurich
+8495	Schmidrüti	ZH	Zurich
+8496	Steg im Tösstal	ZH	Zurich
+8497	Fischenthal	ZH	Zurich
+8498	Gibswil	ZH	Zurich
+8499	Sternenberg	ZH	Zurich
+8500	Frauenfeld	TG	Thurgovie
+8500	Gerlikon	TG	Thurgovie
+8501	Frauenfeld	TG	Thurgovie
+8502	Frauenfeld	TG	Thurgovie
+8503	Frauenfeld	TG	Thurgovie
+8505	Pfyn	TG	Thurgovie
+8505	Dettighofen	TG	Thurgovie
+8506	Lanzenneunforn	TG	Thurgovie
+8507	Hörhausen	TG	Thurgovie
+8508	Homburg	TG	Thurgovie
+8510	Frauenfeld Kant. Verwaltung	TG	Thurgovie
+8512	Thundorf	TG	Thurgovie
+8512	Lustdorf	TG	Thurgovie
+8512	Wetzikon	TG	Thurgovie
+8514	Amlikon-Bissegg	TG	Thurgovie
+8520	Frauenfeld Paketzentrum	TG	Thurgovie
+8520	Frauenfeld Dist Ba	TG	Thurgovie
+8522	Häuslenen	TG	Thurgovie
+8522	Aawangen	TG	Thurgovie
+8523	Hagenbuch	ZH	Zurich
+8524	Buch b. Frauenfeld	TG	Thurgovie
+8524	Uesslingen	TG	Thurgovie
+8525	Wilen b. Neunforn	TG	Thurgovie
+8525	Niederneunforn	TG	Thurgovie
+8526	Oberneunforn	TG	Thurgovie
+8532	Warth	TG	Thurgovie
+8532	Weiningen	TG	Thurgovie
+8535	Herdern	TG	Thurgovie
+8536	Hüttwilen	TG	Thurgovie
+8537	Uerschhausen	TG	Thurgovie
+8537	Nussbaumen	TG	Thurgovie
+8542	Wiesendangen	ZH	Zurich
+8543	Gundetswil	ZH	Zurich
+8543	Kefikon ZH	ZH	Zurich
+8543	Bertschikon	ZH	Zurich
+8544	Attikon	ZH	Zurich
+8545	Rickenbach Sulz	ZH	Zurich
+8545	Rickenbach	ZH	Zurich
+8546	Islikon	TG	Thurgovie
+8546	Kefikon	TG	Thurgovie
+8546	Menzengrüt	ZH	Zurich
+8547	Gachnang	TG	Thurgovie
+8548	Ellikon an der Thur	ZH	Zurich
+8552	Felben-Wellhausen	TG	Thurgovie
+8553	Hüttlingen	TG	Thurgovie
+8553	Eschikofen	TG	Thurgovie
+8553	Harenwilen	TG	Thurgovie
+8553	Mettendorf	TG	Thurgovie
+8554	Bonau	TG	Thurgovie
+8554	Müllheim-Wigoltingen	TG	Thurgovie
+8555	Müllheim Dorf	TG	Thurgovie
+8556	Lamperswil	TG	Thurgovie
+8556	Engwang	TG	Thurgovie
+8556	Wigoltingen	TG	Thurgovie
+8556	Illhart	TG	Thurgovie
+8558	Raperswilen	TG	Thurgovie
+8560	Märstetten	TG	Thurgovie
+8561	Ottoberg	TG	Thurgovie
+8564	Lipperswil	TG	Thurgovie
+8564	Hattenhausen	TG	Thurgovie
+8564	Wäldi	TG	Thurgovie
+8564	Sonterswil	TG	Thurgovie
+8564	Engwilen	TG	Thurgovie
+8564	Gunterswilen	TG	Thurgovie
+8564	Hefenhausen	TG	Thurgovie
+8564	Wagerswil	TG	Thurgovie
+8565	Hugelshofen	TG	Thurgovie
+8566	Neuwilen	TG	Thurgovie
+8566	Dotnacht	TG	Thurgovie
+8566	Lippoldswilen	TG	Thurgovie
+8566	Ellighausen	TG	Thurgovie
+8570	Weinfelden	TG	Thurgovie
+8572	Berg	TG	Thurgovie
+8572	Guntershausen b. Berg	TG	Thurgovie
+8572	Andhausen	TG	Thurgovie
+8572	Graltshausen	TG	Thurgovie
+8573	Alterswilen	TG	Thurgovie
+8573	Siegershausen	TG	Thurgovie
+8573	Altishausen	TG	Thurgovie
+8574	Dettighofen (Lengwil)	TG	Thurgovie
+8574	Illighausen	TG	Thurgovie
+8574	Oberhofen	TG	Thurgovie
+8574	Lengwil	TG	Thurgovie
+8575	Istighofen	TG	Thurgovie
+8575	Bürglen	TG	Thurgovie
+8576	Mauren	TG	Thurgovie
+8577	Schönholzerswilen	TG	Thurgovie
+8580	Hefenhofen	TG	Thurgovie
+8580	Sommeri	TG	Thurgovie
+8580	Hagenwil b. Amriswil	TG	Thurgovie
+8580	Amriswil	TG	Thurgovie
+8581	Schocherswil	TG	Thurgovie
+8582	Dozwil	TG	Thurgovie
+8583	Donzhausen	TG	Thurgovie
+8583	Sulgen	TG	Thurgovie
+8583	Götighofen	TG	Thurgovie
+8584	Leimbach	TG	Thurgovie
+8584	Opfershofen	TG	Thurgovie
+8585	Herrenhof	TG	Thurgovie
+8585	Schönenbaumgarten	TG	Thurgovie
+8585	Zuben	TG	Thurgovie
+8585	Langrickenbach	TG	Thurgovie
+8585	Mattwil	TG	Thurgovie
+8585	Klarsreuti	TG	Thurgovie
+8585	Happerswil	TG	Thurgovie
+8585	Birwinken	TG	Thurgovie
+8586	Kümmertshausen	TG	Thurgovie
+8586	Erlen	TG	Thurgovie
+8586	Ennetaach	TG	Thurgovie
+8586	Riedt b. Erlen	TG	Thurgovie
+8586	Engishofen	TG	Thurgovie
+8586	Andwil	TG	Thurgovie
+8586	Buchackern	TG	Thurgovie
+8586	Buch b. Kümmertshausen	TG	Thurgovie
+8587	Oberaach	TG	Thurgovie
+8588	Zihlschlacht	TG	Thurgovie
+8589	Sitterdorf	TG	Thurgovie
+8590	Romanshorn	TG	Thurgovie
+8592	Uttwil	TG	Thurgovie
+8593	Kesswil	TG	Thurgovie
+8594	Güttingen	TG	Thurgovie
+8595	Altnau	TG	Thurgovie
+8596	Münsterlingen	TG	Thurgovie
+8596	Scherzingen	TG	Thurgovie
+8597	Landschlacht	TG	Thurgovie
+8598	Bottighofen	TG	Thurgovie
+8599	Salmsach	TG	Thurgovie
+8600	Dübendorf	ZH	Zurich
+8602	Wangen b. Dübendorf	ZH	Zurich
+8603	Schwerzenbach	ZH	Zurich
+8604	Volketswil	ZH	Zurich
+8605	Gutenswil	ZH	Zurich
+8606	Nänikon	ZH	Zurich
+8606	Greifensee	ZH	Zurich
+8607	Aathal-Seegräben	ZH	Zurich
+8608	Bubikon	ZH	Zurich
+8610	Uster	ZH	Zurich
+8612	Uster 2	ZH	Zurich
+8613	Uster 3	ZH	Zurich
+8614	Bertschikon (Gossau ZH)	ZH	Zurich
+8614	Sulzbach	ZH	Zurich
+8615	Wermatswil	ZH	Zurich
+8615	Freudwil	ZH	Zurich
+8616	Riedikon	ZH	Zurich
+8617	Mönchaltorf	ZH	Zurich
+8618	Oetwil am See	ZH	Zurich
+8620	Wetzikon	ZH	Zurich
+8621	Wetzikon 4	ZH	Zurich
+8622	Wetzikon	ZH	Zurich
+8623	Wetzikon	ZH	Zurich
+8624	Grüt (Gossau ZH)	ZH	Zurich
+8625	Gossau	ZH	Zurich
+8626	Ottikon (Gossau ZH)	ZH	Zurich
+8627	Grüningen	ZH	Zurich
+8630	Rüti	ZH	Zurich
+8632	Tann	ZH	Zurich
+8633	Wolfhausen	ZH	Zurich
+8634	Hombrechtikon	ZH	Zurich
+8635	Dürnten	ZH	Zurich
+8636	Wald	ZH	Zurich
+8637	Laupen	ZH	Zurich
+8638	Goldingen	SG	Saint-Gall
+8639	Faltigberg	ZH	Zurich
+8640	Rapperswil	SG	Saint-Gall
+8640	Hurden	SZ	Schwytz
+8645	Jona	SG	Saint-Gall
+8646	Wagen	SG	Saint-Gall
+8700	Küsnacht	ZH	Zurich
+8702	Zollikon	ZH	Zurich
+8703	Erlenbach	ZH	Zurich
+8704	Herrliberg	ZH	Zurich
+8706	Meilen	ZH	Zurich
+8707	Uetikon am See	ZH	Zurich
+8708	Männedorf	ZH	Zurich
+8712	Stäfa	ZH	Zurich
+8713	Uerikon	ZH	Zurich
+8714	Feldbach	ZH	Zurich
+8715	Bollingen	SG	Saint-Gall
+8716	Schmerikon	SG	Saint-Gall
+8717	Benken	SG	Saint-Gall
+8718	Schänis	SG	Saint-Gall
+8722	Kaltbrunn	SG	Saint-Gall
+8723	Rufi	SG	Saint-Gall
+8723	Maseltrangen	SG	Saint-Gall
+8725	Ernetschwil	SG	Saint-Gall
+8725	Gebertingen	SG	Saint-Gall
+8726	Ricken	SG	Saint-Gall
+8727	Walde	SG	Saint-Gall
+8730	Uznach	SG	Saint-Gall
+8732	Neuhaus	SG	Saint-Gall
+8733	Eschenbach	SG	Saint-Gall
+8734	Ermenswil	SG	Saint-Gall
+8735	St. Gallenkappel	SG	Saint-Gall
+8735	Rüeterswil	SG	Saint-Gall
+8737	Gommiswald	SG	Saint-Gall
+8738	Uetliburg	SG	Saint-Gall
+8739	Rieden	SG	Saint-Gall
+8750	Riedern	GL	Glaris
+8750	Klöntal	GL	Glaris
+8750	Glarus	GL	Glaris
+8751	Urnerboden	UR	Uri
+8752	Näfels	GL	Glaris
+8753	Mollis	GL	Glaris
+8754	Netstal	GL	Glaris
+8755	Ennenda	GL	Glaris
+8756	Mitlödi	GL	Glaris
+8757	Filzbach	GL	Glaris
+8758	Obstalden	GL	Glaris
+8759	Netstal	GL	Glaris
+8762	Schwanden	GL	Glaris
+8762	Sool	GL	Glaris
+8762	Schwändi b. Schwanden	GL	Glaris
+8765	Engi	GL	Glaris
+8766	Matt	GL	Glaris
+8767	Elm	GL	Glaris
+8772	Nidfurn	GL	Glaris
+8773	Haslen	GL	Glaris
+8774	Leuggelbach	GL	Glaris
+8775	Luchsingen	GL	Glaris
+8775	Hätzingen	GL	Glaris
+8777	Diesbach	GL	Glaris
+8777	Betschwanden	GL	Glaris
+8782	Rüti	GL	Glaris
+8783	Linthal	GL	Glaris
+8784	Braunwald	GL	Glaris
+8800	Thalwil	ZH	Zurich
+8801	Thalwil Fächer	ZH	Zurich
+8802	Kilchberg	ZH	Zurich
+8803	Rüschlikon	ZH	Zurich
+8804	Au	ZH	Zurich
+8805	Richterswil	ZH	Zurich
+8806	Bäch	SZ	Schwytz
+8807	Freienbach	SZ	Schwytz
+8808	Pfäffikon	SZ	Schwytz
+8810	Horgen	ZH	Zurich
+8812	Horgen Bahnhof Oberdorf	ZH	Zurich
+8813	Horgen	ZH	Zurich
+8815	Horgenberg	ZH	Zurich
+8816	Hirzel	ZH	Zurich
+8820	Wädenswil	ZH	Zurich
+8824	Schönenberg	ZH	Zurich
+8825	Hütten	ZH	Zurich
+8832	Wollerau	SZ	Schwytz
+8832	Wollerau	SZ	Schwytz
+8832	Wilen b. Wollerau	SZ	Schwytz
+8833	Samstagern	ZH	Zurich
+8834	Schindellegi	SZ	Schwytz
+8835	Feusisberg	SZ	Schwytz
+8836	Bennau	SZ	Schwytz
+8840	Trachslau	SZ	Schwytz
+8840	Einsiedeln	SZ	Schwytz
+8841	Gross	SZ	Schwytz
+8842	Unteriberg	SZ	Schwytz
+8843	Oberiberg	SZ	Schwytz
+8844	Euthal	SZ	Schwytz
+8845	Studen	SZ	Schwytz
+8846	Willerzell	SZ	Schwytz
+8847	Egg	SZ	Schwytz
+8849	Alpthal	SZ	Schwytz
+8852	Altendorf	SZ	Schwytz
+8853	Lachen	SZ	Schwytz
+8854	Galgenen	SZ	Schwytz
+8854	Siebnen	SZ	Schwytz
+8855	Wangen	SZ	Schwytz
+8856	Tuggen	SZ	Schwytz
+8857	Vorderthal	SZ	Schwytz
+8858	Innerthal	SZ	Schwytz
+8862	Schübelbach	SZ	Schwytz
+8863	Buttikon SZ	SZ	Schwytz
+8864	Reichenburg	SZ	Schwytz
+8865	Bilten	GL	Glaris
+8866	Ziegelbrücke	GL	Glaris
+8867	Niederurnen	GL	Glaris
+8868	Oberurnen	GL	Glaris
+8872	Weesen	SG	Saint-Gall
+8873	Amden	SG	Saint-Gall
+8874	Mühlehorn	GL	Glaris
+8877	Murg	SG	Saint-Gall
+8878	Quinten	SG	Saint-Gall
+8879	Pizolpark (Mels)	SG	Saint-Gall
+8880	Walenstadt	SG	Saint-Gall
+8881	Knoblisbühl	SG	Saint-Gall
+8881	Walenstadtberg	SG	Saint-Gall
+8881	Tscherlach	SG	Saint-Gall
+8882	Unterterzen	SG	Saint-Gall
+8883	Quarten	SG	Saint-Gall
+8884	Oberterzen	SG	Saint-Gall
+8885	Mols	SG	Saint-Gall
+8886	Mädris-Vermol	SG	Saint-Gall
+8887	Mels	SG	Saint-Gall
+8888	Heiligkreuz (Mels)	SG	Saint-Gall
+8889	Plons	SG	Saint-Gall
+8890	Flums	SG	Saint-Gall
+8892	Berschis	SG	Saint-Gall
+8902	Urdorf	ZH	Zurich
+8903	Birmensdorf	ZH	Zurich
+8904	Aesch	ZH	Zurich
+8905	Islisberg	AG	Argovie
+8905	Arni	AG	Argovie
+8906	Bonstetten	ZH	Zurich
+8907	Wettswil	ZH	Zurich
+8908	Hedingen	ZH	Zurich
+8909	Zwillikon	ZH	Zurich
+8910	Affoltern am Albis	ZH	Zurich
+8911	Rifferswil	ZH	Zurich
+8912	Obfelden	ZH	Zurich
+8913	Ottenbach	ZH	Zurich
+8914	Aeugstertal	ZH	Zurich
+8914	Aeugst am Albis	ZH	Zurich
+8915	Hausen am Albis	ZH	Zurich
+8916	Jonen	AG	Argovie
+8917	Oberlunkhofen	AG	Argovie
+8918	Unterlunkhofen	AG	Argovie
+8919	Rottenschwil	AG	Argovie
+8925	Ebertswil	ZH	Zurich
+8926	Uerzlikon	ZH	Zurich
+8926	Kappel am Albis	ZH	Zurich
+8926	Hauptikon	ZH	Zurich
+8932	Mettmenstetten	ZH	Zurich
+8933	Maschwanden	ZH	Zurich
+8934	Knonau	ZH	Zurich
+8942	Oberrieden	ZH	Zurich
+8951	Fahrweid	ZH	Zurich
+8952	Schlieren	ZH	Zurich
+8953	Dietikon	ZH	Zurich
+8954	Geroldswil	ZH	Zurich
+8955	Oetwil an der Limmat	ZH	Zurich
+8956	Killwangen	AG	Argovie
+8957	Spreitenbach	AG	Argovie
+8962	Bergdietikon	AG	Argovie
+8964	Rudolfstetten	AG	Argovie
+8965	Berikon	AG	Argovie
+8966	Oberwil-Lieli	AG	Argovie
+8967	Widen	AG	Argovie
+8970	Urdorf Exchange	ZH	Zurich
+9000	St. Gallen	SG	Saint-Gall
+9001	St. Gallen	SG	Saint-Gall
+9004	St. Gallen	SG	Saint-Gall
+9006	St. Gallen	SG	Saint-Gall
+9007	St. Gallen	SG	Saint-Gall
+9008	St. Gallen	SG	Saint-Gall
+9009	St. Gallen	SG	Saint-Gall
+9010	St. Gallen	SG	Saint-Gall
+9011	St. Gallen	SG	Saint-Gall
+9012	St. Gallen	SG	Saint-Gall
+9013	St. Gallen	SG	Saint-Gall
+9014	St. Gallen	SG	Saint-Gall
+9015	St. Gallen	SG	Saint-Gall
+9016	St. Gallen	SG	Saint-Gall
+9020	St. Gallen	SG	Saint-Gall
+9022	St. Gallen	SG	Saint-Gall
+9023	St. Gallen	SG	Saint-Gall
+9028	St. Gallen	SG	Saint-Gall
+9029	St. Gallen Sonderdienste	SG	Saint-Gall
+9030	Abtwil	SG	Saint-Gall
+9030	St. Josefen	SG	Saint-Gall
+9032	Engelburg	SG	Saint-Gall
+9033	Untereggen	SG	Saint-Gall
+9034	Eggersriet	SG	Saint-Gall
+9035	Grub	AR	Appenzell Rhodes-Extérieures
+9036	Grub	SG	Saint-Gall
+9037	Speicherschwendi	AR	Appenzell Rhodes-Extérieures
+9038	Rehetobel	AR	Appenzell Rhodes-Extérieures
+9042	Speicher	AR	Appenzell Rhodes-Extérieures
+9043	Trogen	AR	Appenzell Rhodes-Extérieures
+9044	Wald	AR	Appenzell Rhodes-Extérieures
+9050	Appenzell	AI	Appenzell Rhodes-Intérieures
+9050	Appenzell Eggerstanden	AI	Appenzell Rhodes-Intérieures
+9050	Appenzell Enggenhütten	AI	Appenzell Rhodes-Intérieures
+9050	Appenzell Meistersrüte	AI	Appenzell Rhodes-Intérieures
+9050	Appenzell	AI	Appenzell Rhodes-Intérieures
+9050	Appenzell Steinegg	AI	Appenzell Rhodes-Intérieures
+9050	Appenzell Schlatt	AI	Appenzell Rhodes-Intérieures
+9052	Niederteufen	AR	Appenzell Rhodes-Extérieures
+9053	Teufen	AR	Appenzell Rhodes-Extérieures
+9054	Haslen AI	AI	Appenzell Rhodes-Intérieures
+9055	Bühler	AR	Appenzell Rhodes-Extérieures
+9056	Gais	AR	Appenzell Rhodes-Extérieures
+9057	Weissbad	AI	Appenzell Rhodes-Intérieures
+9057	Wasserauen	AI	Appenzell Rhodes-Intérieures
+9057	Schwende	AI	Appenzell Rhodes-Intérieures
+9058	Brülisau	AI	Appenzell Rhodes-Intérieures
+9062	Lustmühle	AR	Appenzell Rhodes-Extérieures
+9063	Stein AR	AR	Appenzell Rhodes-Extérieures
+9064	Hundwil	AR	Appenzell Rhodes-Extérieures
+9100	Herisau	AR	Appenzell Rhodes-Extérieures
+9101	Herisau	AR	Appenzell Rhodes-Extérieures
+9102	Herisau	AR	Appenzell Rhodes-Extérieures
+9103	Schwellbrunn	AR	Appenzell Rhodes-Extérieures
+9104	Waldstatt	AR	Appenzell Rhodes-Extérieures
+9105	Schönengrund	AR	Appenzell Rhodes-Extérieures
+9107	Urnäsch	AR	Appenzell Rhodes-Extérieures
+9107	Urnäsch	AR	Appenzell Rhodes-Extérieures
+9108	Gonten	AI	Appenzell Rhodes-Intérieures
+9108	Gontenbad	AI	Appenzell Rhodes-Intérieures
+9108	Jakobsbad	AI	Appenzell Rhodes-Intérieures
+9112	Schachen b. Herisau	AR	Appenzell Rhodes-Extérieures
+9113	Degersheim	SG	Saint-Gall
+9114	Hoffeld	SG	Saint-Gall
+9115	Dicken	SG	Saint-Gall
+9116	Wolfertswil	SG	Saint-Gall
+9122	Mogelsberg	SG	Saint-Gall
+9122	Ebersol	SG	Saint-Gall
+9123	Nassen	SG	Saint-Gall
+9125	Brunnadern	SG	Saint-Gall
+9126	Necker	SG	Saint-Gall
+9127	St. Peterzell	SG	Saint-Gall
+9200	Gossau	SG	Saint-Gall
+9201	Gossau	SG	Saint-Gall
+9203	Niederwil	SG	Saint-Gall
+9204	Andwil	SG	Saint-Gall
+9205	Waldkirch	SG	Saint-Gall
+9212	Arnegg	SG	Saint-Gall
+9213	Hauptwil	TG	Thurgovie
+9214	Kradolf	TG	Thurgovie
+9215	Schönenberg an der Thur	TG	Thurgovie
+9215	Buhwil	TG	Thurgovie
+9216	Hohentannen	TG	Thurgovie
+9216	Heldswil	TG	Thurgovie
+9217	Neukirch an der Thur	TG	Thurgovie
+9220	Bischofszell	TG	Thurgovie
+9223	Halden	TG	Thurgovie
+9223	Schweizersholz	TG	Thurgovie
+9225	St. Pelagiberg	TG	Thurgovie
+9225	Wilen (Gottshaus)	TG	Thurgovie
+9230	Flawil	SG	Saint-Gall
+9231	Egg (Flawil)	SG	Saint-Gall
+9240	Niederglatt	SG	Saint-Gall
+9240	Uzwil	SG	Saint-Gall
+9242	Oberuzwil	SG	Saint-Gall
+9243	Jonschwil	SG	Saint-Gall
+9244	Niederuzwil	SG	Saint-Gall
+9245	Sonnental	SG	Saint-Gall
+9245	Oberbüren	SG	Saint-Gall
+9246	Niederbüren	SG	Saint-Gall
+9247	Henau	SG	Saint-Gall
+9248	Bichwil	SG	Saint-Gall
+9249	Oberstetten	SG	Saint-Gall
+9249	Niederstetten	SG	Saint-Gall
+9249	Algetshausen	SG	Saint-Gall
+9300	Wittenbach	SG	Saint-Gall
+9301	Wittenbach	SG	Saint-Gall
+9304	Bernhardzell	SG	Saint-Gall
+9305	Berg	SG	Saint-Gall
+9306	Freidorf	TG	Thurgovie
+9308	Lömmenschwil	SG	Saint-Gall
+9312	Häggenschwil	SG	Saint-Gall
+9313	Muolen	SG	Saint-Gall
+9314	Steinebrunn	TG	Thurgovie
+9315	Winden	TG	Thurgovie
+9315	Neukirch (Egnach)	TG	Thurgovie
+9320	Stachen	TG	Thurgovie
+9320	Arbon	TG	Thurgovie
+9320	Frasnacht	TG	Thurgovie
+9322	Egnach	TG	Thurgovie
+9323	Steinach	SG	Saint-Gall
+9325	Roggwil TG	TG	Thurgovie
+9326	Horn	TG	Thurgovie
+9327	Tübach	SG	Saint-Gall
+9400	Rorschach	SG	Saint-Gall
+9401	Rorschach	SG	Saint-Gall
+9402	Mörschwil	SG	Saint-Gall
+9403	Goldach	SG	Saint-Gall
+9404	Rorschacherberg	SG	Saint-Gall
+9405	Wienacht-Tobel	AR	Appenzell Rhodes-Extérieures
+9410	Heiden	AR	Appenzell Rhodes-Extérieures
+9411	Reute	AR	Appenzell Rhodes-Extérieures
+9413	Oberegg	AI	Appenzell Rhodes-Intérieures
+9414	Schachen b. Reute	AR	Appenzell Rhodes-Extérieures
+9422	Staad	SG	Saint-Gall
+9423	Altenrhein	SG	Saint-Gall
+9424	Rheineck	SG	Saint-Gall
+9425	Thal	SG	Saint-Gall
+9426	Lutzenberg	AR	Appenzell Rhodes-Extérieures
+9427	Wolfhalden	AR	Appenzell Rhodes-Extérieures
+9428	Walzenhausen	AR	Appenzell Rhodes-Extérieures
+9430	St. Margrethen	SG	Saint-Gall
+9434	Au	SG	Saint-Gall
+9435	Heerbrugg	SG	Saint-Gall
+9436	Balgach	SG	Saint-Gall
+9437	Marbach	SG	Saint-Gall
+9442	Büriswilen	AI	Appenzell Rhodes-Intérieures
+9442	Berneck	SG	Saint-Gall
+9443	Widnau	SG	Saint-Gall
+9444	Diepoldsau	SG	Saint-Gall
+9445	Rebstein	SG	Saint-Gall
+9450	Altstätten	SG	Saint-Gall
+9450	Lüchingen	SG	Saint-Gall
+9451	Kriessern	SG	Saint-Gall
+9452	Hinterforst	SG	Saint-Gall
+9453	Eichberg	SG	Saint-Gall
+9462	Montlingen	SG	Saint-Gall
+9463	Oberriet	SG	Saint-Gall
+9464	Rüthi (Rheintal)	SG	Saint-Gall
+9464	Lienz	SG	Saint-Gall
+9465	Salez	SG	Saint-Gall
+9466	Sennwald	SG	Saint-Gall
+9467	Frümsen	SG	Saint-Gall
+9468	Sax	SG	Saint-Gall
+9469	Haag (Rheintal)	SG	Saint-Gall
+9470	Werdenberg	SG	Saint-Gall
+9470	Buchs SG	SG	Saint-Gall
+9471	Buchs SG 1	SG	Saint-Gall
+9472	Grabserberg	SG	Saint-Gall
+9472	Grabs	SG	Saint-Gall
+9473	Gams	SG	Saint-Gall
+9475	Sevelen	SG	Saint-Gall
+9476	Fontnas	SG	Saint-Gall
+9476	Weite	SG	Saint-Gall
+9477	Trübbach	SG	Saint-Gall
+9478	Azmoos	SG	Saint-Gall
+9479	Malans	SG	Saint-Gall
+9479	Oberschan	SG	Saint-Gall
+9479	Gretschins	SG	Saint-Gall
+9500	Wil SG	SG	Saint-Gall
+9501	Wil SG 1	SG	Saint-Gall
+9502	Braunau	TG	Thurgovie
+9503	Stehrenberg	TG	Thurgovie
+9503	Lanterswil	TG	Thurgovie
+9504	Friltschen	TG	Thurgovie
+9506	Lommis	TG	Thurgovie
+9507	Stettfurt	TG	Thurgovie
+9508	Weingarten-Kalthäusern	TG	Thurgovie
+9512	Rossrüti	SG	Saint-Gall
+9514	Wuppenau	TG	Thurgovie
+9515	Hosenruck	TG	Thurgovie
+9517	Mettlen	TG	Thurgovie
+9523	Züberwangen	SG	Saint-Gall
+9524	Zuzwil	SG	Saint-Gall
+9525	Lenggenwil	SG	Saint-Gall
+9526	Zuckenriet	SG	Saint-Gall
+9527	Niederhelfenschwil	SG	Saint-Gall
+9532	Rickenbach b. Wil	TG	Thurgovie
+9533	Dietschwil	SG	Saint-Gall
+9533	Kirchberg	SG	Saint-Gall
+9534	Gähwil	SG	Saint-Gall
+9535	Wilen b. Wil	TG	Thurgovie
+9536	Schwarzenbach	SG	Saint-Gall
+9542	Münchwilen	TG	Thurgovie
+9543	St. Margarethen	TG	Thurgovie
+9545	Wängi	TG	Thurgovie
+9546	Tuttwil	TG	Thurgovie
+9547	Wittenwil	TG	Thurgovie
+9548	Matzingen	TG	Thurgovie
+9552	Bronschhofen	SG	Saint-Gall
+9553	Bettwiesen	TG	Thurgovie
+9554	Tägerschen	TG	Thurgovie
+9555	Tobel	TG	Thurgovie
+9556	Affeltrangen	TG	Thurgovie
+9556	Zezikon	TG	Thurgovie
+9562	Buch b. Märwil	TG	Thurgovie
+9562	Märwil	TG	Thurgovie
+9565	Bussnang	TG	Thurgovie
+9565	Oppikon	TG	Thurgovie
+9565	Oberbussnang	TG	Thurgovie
+9565	Rothenhausen	TG	Thurgovie
+9565	Schmidshof	TG	Thurgovie
+9573	Littenheid	TG	Thurgovie
+9601	Lütisburg Station	SG	Saint-Gall
+9602	Müselbach	SG	Saint-Gall
+9602	Bazenheid	SG	Saint-Gall
+9604	Lütisburg	SG	Saint-Gall
+9604	Oberrindal	SG	Saint-Gall
+9604	Unterrindal	SG	Saint-Gall
+9606	Bütschwil	SG	Saint-Gall
+9607	Mosnang	SG	Saint-Gall
+9608	Ganterschwil	SG	Saint-Gall
+9612	Dreien	SG	Saint-Gall
+9613	Mühlrüti	SG	Saint-Gall
+9614	Libingen	SG	Saint-Gall
+9615	Dietfurt	SG	Saint-Gall
+9620	Lichtensteig	SG	Saint-Gall
+9621	Oberhelfenschwil	SG	Saint-Gall
+9622	Krinau	SG	Saint-Gall
+9630	Wattwil	SG	Saint-Gall
+9631	Ulisbach	SG	Saint-Gall
+9633	Hemberg	SG	Saint-Gall
+9633	Bächli (Hemberg)	SG	Saint-Gall
+9642	Ebnat-Kappel	SG	Saint-Gall
+9643	Krummenau	SG	Saint-Gall
+9650	Nesslau	SG	Saint-Gall
+9651	Ennetbühl	SG	Saint-Gall
+9652	Neu St. Johann	SG	Saint-Gall
+9655	Stein	SG	Saint-Gall
+9656	Alt St. Johann	SG	Saint-Gall
+9657	Unterwasser	SG	Saint-Gall
+9658	Wildhaus	SG	Saint-Gall
