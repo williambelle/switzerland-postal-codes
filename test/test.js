@@ -11,12 +11,12 @@
     });
 
     it("should return a composed location", function(){
-      var cologny = codes['1295'];
-      cologny.should.equal('Mies - Tannay');
+      var miesTannay = codes['1295'];
+      miesTannay.should.equal('Mies - Tannay');
     });
 
-    it("should contains at least 2500 items", function(){
-      var enoughLocation = Object.keys(codes).length > 2500;
+    it("should contains at least 3000 items", function(){
+      var enoughLocation = Object.keys(codes).length > 3000;
       enoughLocation.should.equal(true);
     });
   });
