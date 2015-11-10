@@ -1,6 +1,10 @@
 Switzerland Postal Codes Changelog
 ==================================
 
+### v0.0.6 / 2015-11-10
+
+ - Update postal codes
+
 ### v0.0.5 / 2015-11-08
 
  - Update postal codes
