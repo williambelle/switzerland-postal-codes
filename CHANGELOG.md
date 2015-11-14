@@ -1,6 +1,11 @@
 Switzerland Postal Codes Changelog
 ==================================
 
+### v0.0.7 / 2015-11-14
+
+ - Add geolocation data
+ - Remove duplicate postal codes
+
 ### v0.0.6 / 2015-11-10
 
  - Update postal codes
