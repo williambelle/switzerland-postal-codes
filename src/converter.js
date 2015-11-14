@@ -3,13 +3,12 @@
 'use strict';
 
 var fs   = require('fs');
-var path = require('path');
 
 var hash = {};
 var data = fs.readFileSync('data/postal-codes.tsv', 'utf8');
 data.split('\n').forEach(function (row) {
   var columns = row.split('\t');
-  if (columns.length === 4){
+  if (columns.length === 5){
     if (columns[0] in hash){
       hash[columns[0]] = hash[columns[0]] + ' - ' + columns[1];
     } else {
