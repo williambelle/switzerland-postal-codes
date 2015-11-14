@@ -48,7 +48,18 @@ $ npm install
 $ ./src/converter.js
 ```
 
+Data
+----
+
+ - Postal codes based on the [official postal codes database][1] from Swiss Post
+ - Geolocation based on the [Geonames database][2] licensed under a [Creative
+ Commons Attribution 3.0 License][3].
+
 License
 -------
 
 The MIT License (MIT)
+
+[1]: https://www.post.ch/en/business/a-z-of-subjects/maintaining-customer-addresses/address-master-data
+[2]: http://www.geonames.org/
+[3]: http://creativecommons.org/licenses/by/3.0/
