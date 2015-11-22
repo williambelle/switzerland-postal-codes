@@ -1,7 +1,10 @@
 Switzerland Postal Codes
 ========================
 
-[![Build Status](https://travis-ci.org/williambelle/switzerland-postal-codes.svg?branch=master)](https://travis-ci.org/williambelle/switzerland-postal-codes)
+[![NPM version][npm-image]][npm-url]
+[![Bower version][bower-image]][bower-url]
+[![Build Status][travis-image]][travis-url]
+[![Dependency Status][gemnasium-image]][gemnasium-url]
 
 Switzerland postal codes Javascript module
 
@@ -27,11 +30,11 @@ console.log(postalCodes['1260']);
 $ bower install switzerland-postal-codes
 ```
 
-Then use `dist/postal-codes.json` in your HTML.
+Then use `dist/postal-codes.json` or `dist/postal-codes-full.json` in your HTML.
 
 ### Download
 
-Download `postal-codes.json` from [Release](https://github.com/williambelle/switzerland-postal-codes/releases)
+Download `postal-codes.json` or `postal-codes-full.json` from the  [Github Release pages](https://github.com/williambelle/switzerland-postal-codes/releases)
 
 Demo
 ----
@@ -63,3 +66,11 @@ The MIT License (MIT)
 [1]: https://www.post.ch/en/business/a-z-of-subjects/maintaining-customer-addresses/address-master-data
 [2]: http://www.geonames.org/
 [3]: http://creativecommons.org/licenses/by/3.0/
+[npm-image]: https://img.shields.io/npm/v/switzerland-postal-codes.svg
+[npm-url]: https://www.npmjs.com/package/switzerland-postal-codes
+[bower-image]: https://img.shields.io/bower/v/switzerland-postal-codes.svg
+[bower-url]: http://bower.io/search/?q=switzerland-postal-codes
+[travis-image]: https://travis-ci.org/williambelle/switzerland-postal-codes.svg?branch=master
+[travis-url]: https://travis-ci.org/williambelle/switzerland-postal-codes
+[gemnasium-image]: https://gemnasium.com/williambelle/switzerland-postal-codes.svg
+[gemnasium-url]: https://gemnasium.com/williambelle/switzerland-postal-codes
