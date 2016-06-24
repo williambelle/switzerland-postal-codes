@@ -16,8 +16,8 @@
     "test": "jshint . && mocha"
   },
   "devDependencies": {
-    "chai": "^3.4.0",
-    "jshint": "~2.8.0",
-    "mocha": "^2.3.3"
+    "chai": "^3.5.0",
+    "jshint": "~2.9.2",
+    "mocha": "^2.5.3"
   }
 }
