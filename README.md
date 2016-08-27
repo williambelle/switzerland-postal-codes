@@ -1,10 +1,10 @@
 Switzerland Postal Codes
 ========================
 
-[![NPM version][npm-image]][npm-url]
-[![Bower version][bower-image]][bower-url]
 [![Build Status][travis-image]][travis-url]
 [![Dependency Status][gemnasium-image]][gemnasium-url]
+[![NPM version][npm-image]][npm-url]
+[![Bower version][bower-image]][bower-url]
 
 Switzerland postal codes Javascript module
 
