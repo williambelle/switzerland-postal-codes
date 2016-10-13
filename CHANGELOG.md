@@ -1,6 +1,11 @@
 Switzerland Postal Codes Changelog
 ==================================
 
+### v1.0.0 / 2016-10-12
+
+ - First stable release
+ - Update dev dependencies
+
 ### v0.0.8 / 2015-11-22
 
  - Add new dist file postal-codes-full.json
