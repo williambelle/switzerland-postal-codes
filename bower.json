@@ -14,10 +14,11 @@
   "license": "MIT",
   "main": "dist/postal-codes.json",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    ".*",
+    "*.json",
+    "src/**",
+    "test/**",
+    "data/**",
+    "dist-node/**"
   ]
 }
