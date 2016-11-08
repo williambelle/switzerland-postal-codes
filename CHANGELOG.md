@@ -1,6 +1,11 @@
 Switzerland Postal Codes Changelog
 ==================================
 
+### v1.0.1 / 2016-11-08
+
+ - Clean bower config
+ - Update dev dependency
+
 ### v1.0.0 / 2016-10-12
 
  - First stable release
