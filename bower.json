@@ -15,7 +15,7 @@
   "main": "dist/postal-codes.json",
   "ignore": [
     ".*",
-    "*.json",
+    "package.json",
     "src/**",
     "test/**",
     "data/**",
