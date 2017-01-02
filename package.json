@@ -13,10 +13,13 @@
   "repository": "https://github.com/williambelle/switzerland-postal-codes.git",
   "main": "dist-node/index.js",
   "scripts": {
-    "test": "jshint . && mocha"
+    "test": "jshint . && mocha",
+    "coverage": "istanbul cover _mocha",
+    "coveralls": "npm run coverage -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
     "jshint": "~2.9.4",
     "mocha": "^3.2.0"
   }
