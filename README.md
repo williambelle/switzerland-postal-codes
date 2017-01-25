@@ -33,7 +33,7 @@ $ bower install switzerland-postal-codes
 
 Then use `dist/postal-codes.json` or `dist/postal-codes-full.json` in your HTML.
 
-### Download
+### Download
 
 Download `postal-codes.json` or `postal-codes-full.json` from the  [Github Release pages](https://github.com/williambelle/switzerland-postal-codes/releases)
 
