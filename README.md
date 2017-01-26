@@ -22,7 +22,9 @@ Then you can `require('switzerland-postal-codes')`.
 
 ```js
 var postalCodes = require('switzerland-postal-codes');
+
 console.log(postalCodes['1260']);
+//=> 'Nyon'
 ```
 
 ### Bower
@@ -55,9 +57,9 @@ $ ./src/converter.js
 Data
 ----
 
- - Postal codes based on the [official postal codes database][1] from Swiss Post
- - Geolocation based on the [Geonames database][2] licensed under a [Creative
- Commons Attribution 3.0 License][3].
+  - Postal codes based on the [official postal codes database][1] from Swiss Post
+  - Geolocation based on the [Geonames database][2] licensed under a [Creative
+    Commons Attribution 3.0 License][3].
 
 License
 -------
