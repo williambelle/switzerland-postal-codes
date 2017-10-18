@@ -21,9 +21,9 @@
     "coveralls": "npm run coverage -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
   },
   "devDependencies": {
-    "chai": "^4.0.0",
+    "chai": "^4.1.2",
     "istanbul": "^0.4.5",
-    "jshint": "~2.9.4",
-    "mocha": "^3.4.2"
+    "jshint": "~2.9.5",
+    "mocha": "^4.0.1"
   }
 }
