@@ -11,6 +11,9 @@
   "author": "William Belle <william.belle@gmail.com>",
   "license": "MIT",
   "repository": "https://github.com/williambelle/switzerland-postal-codes.git",
+  "engines": {
+    "node": ">=4"
+  },
   "main": "dist-node/index.js",
   "scripts": {
     "test": "jshint . && mocha",

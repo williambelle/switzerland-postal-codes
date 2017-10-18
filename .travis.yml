@@ -4,9 +4,6 @@ node_js:
   - "6"
   - "5"
   - "4"
-  - "0.12"
-  - "0.10"
-  - "iojs"
 after_success:
   - npm install coveralls mocha-lcov-reporter
   - npm run coveralls
