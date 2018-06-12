@@ -1,6 +1,15 @@
 Switzerland Postal Codes Changelog
 ==================================
 
+### v2.0.0 / 2018-06-12
+
+  - Drop support for Node < 4
+  - Add unit test coverage
+  - Move to eslint
+  - Move to david-dm
+  - Disable `package-lock.json`
+  - Update dependencies
+
 ### v1.0.1 / 2016-11-08
 
  - Clean bower config
