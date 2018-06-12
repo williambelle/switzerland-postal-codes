@@ -3,7 +3,7 @@ Switzerland Postal Codes
 
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][coverage-image]][coverage-url]
-[![Dependency Status][gemnasium-image]][gemnasium-url]
+[![Dependency Status][daviddm-image]][daviddm-url]
 [![NPM version][npm-image]][npm-url]
 [![Bower version][bower-image]][bower-url]
 
@@ -77,5 +77,5 @@ The MIT License (MIT)
 [travis-url]: https://travis-ci.org/williambelle/switzerland-postal-codes
 [coverage-image]: https://coveralls.io/repos/github/williambelle/switzerland-postal-codes/badge.svg
 [coverage-url]: https://coveralls.io/github/williambelle/switzerland-postal-codes
-[gemnasium-image]: https://gemnasium.com/williambelle/switzerland-postal-codes.svg
-[gemnasium-url]: https://gemnasium.com/williambelle/switzerland-postal-codes
+[daviddm-image]: https://david-dm.org/williambelle/switzerland-postal-codes/status.svg
+[daviddm-url]: https://david-dm.org/williambelle/switzerland-postal-codes
