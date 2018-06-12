@@ -1,0 +1,11 @@
+{
+  "extends": "standard",
+  "env": {
+    "mocha": true,
+    "node": true
+  },
+  "rules": {
+    "max-len": [2, 80],
+    "semi": [2, "always"]
+  }
+}
