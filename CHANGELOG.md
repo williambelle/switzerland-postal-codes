@@ -1,5 +1,11 @@
-Switzerland Postal Codes Changelog
-==================================
+Changelog
+=========
+
+### v3.0.0 / 2018-11-12
+
+  - Drop support for Node < 6
+  - Update dependencies
+  - Add `CONTRIBUTING.md`
 
 ### v2.0.0 / 2018-06-12
 
