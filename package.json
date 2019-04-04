@@ -17,8 +17,8 @@
   "main": "dist-node/index.js",
   "scripts": {
     "test": "eslint . && mocha",
-    "coverage": "istanbul cover _mocha",
-    "coveralls": "npm run coverage -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
+    "coverage": "nyc mocha",
+    "coveralls": "npm run coverage && nyc report --reporter=text-lcov | coveralls"
   },
   "devDependencies": {
     "chai": "^4.2.0",
@@ -28,7 +28,7 @@
     "eslint-plugin-node": "^8.0.1",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
-    "istanbul": "^0.4.5",
-    "mocha": "^6.0.2"
+    "mocha": "^6.0.2",
+    "nyc": "^13.3.0"
   }
 }
