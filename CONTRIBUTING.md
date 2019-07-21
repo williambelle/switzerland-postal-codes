@@ -1,7 +1,7 @@
 Contributing
 ============
 
-Welcome, so you are thinking about contributing ?
+Welcome, so you are thinking about contributing?
 Awesome, this a great place to start.
 
 Setup
@@ -36,10 +36,10 @@ npm run coverage
 Release
 -------
 
-  1. Bump the correct version (`npm version [<newversion> | major | minor | patch]`)
-  2. Update the file [CHANGELOG.md](CHANGELOG.md)
-  3. Create the tag (`git tag -a v<version> -m "Tagging the v<version> release"`)
-  4. Publish with `npm publish`
+1. Bump the correct version (`npm version [<newversion> | major | minor | patch]`)
+1. Update the file [CHANGELOG.md](CHANGELOG.md)
+1. Create the tag (`git tag -a v<version> -m "Tagging the v<version> release"`)
+1. Publish with `npm publish`
 
 License
 -------

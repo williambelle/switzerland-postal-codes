@@ -1,12 +1,12 @@
-Switzerland Postal Codes
+switzerland-postal-codes
 ========================
 
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][coverage-image]][coverage-url]
-[![Dependency Status][daviddm-image]][daviddm-url]
+[![Dependencies Status][daviddm-image]][daviddm-url]
 [![NPM version][npm-image]][npm-url]
 
-Switzerland postal codes Javascript module
+Switzerland postal codes Javascript module.
 
 Install
 -------
@@ -27,8 +27,7 @@ Usage
 ```js
 var postalCodes = require('switzerland-postal-codes');
 
-console.log(postalCodes['1260']);
-//=> 'Nyon'
+console.log(postalCodes['1260']); //=> 'Nyon'
 ```
 
 or use `dist/postal-codes.json` or `dist/postal-codes-full.json` in your HTML.
