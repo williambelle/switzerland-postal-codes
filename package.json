@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": "https://github.com/williambelle/switzerland-postal-codes.git",
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "main": "dist-node/index.js",
   "scripts": {
