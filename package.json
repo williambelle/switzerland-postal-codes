@@ -10,7 +10,7 @@
   ],
   "author": "William Belle <william.belle@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/williambelle/switzerland-postal-codes.git",
+  "repository": "williambelle/switzerland-postal-codes",
   "engines": {
     "node": ">=8"
   },
