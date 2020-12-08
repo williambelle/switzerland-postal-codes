@@ -1,7 +1,7 @@
 switzerland-postal-codes
 ========================
 
-[![Build Status][travis-image]][travis-url]
+[![Build Status][github-actions-image]][github-actions-url]
 [![Coverage Status][coverage-image]][coverage-url]
 [![Dependencies Status][daviddm-image]][daviddm-url]
 [![NPM version][npm-image]][npm-url]
@@ -66,8 +66,8 @@ The MIT License (MIT)
 [3]: http://creativecommons.org/licenses/by/3.0/
 [npm-image]: https://img.shields.io/npm/v/switzerland-postal-codes.svg
 [npm-url]: https://www.npmjs.com/package/switzerland-postal-codes
-[travis-image]: https://travis-ci.org/williambelle/switzerland-postal-codes.svg?branch=master
-[travis-url]: https://travis-ci.org/williambelle/switzerland-postal-codes
+[github-actions-image]: https://github.com/williambelle/switzerland-postal-codes/workflows/Build/badge.svg
+[github-actions-url]: https://github.com/williambelle/switzerland-postal-codes/actions
 [coverage-image]: https://coveralls.io/repos/github/williambelle/switzerland-postal-codes/badge.svg
 [coverage-url]: https://coveralls.io/github/williambelle/switzerland-postal-codes
 [daviddm-image]: https://david-dm.org/williambelle/switzerland-postal-codes/status.svg
