@@ -12,7 +12,7 @@ Install
 -------
 
 ```bash
-npm i switzerland-postal-codes --save
+npm i switzerland-postal-codes
 ```
 
 or
@@ -25,7 +25,7 @@ Usage
 -----
 
 ```js
-var postalCodes = require('switzerland-postal-codes');
+const postalCodes = require('switzerland-postal-codes');
 
 console.log(postalCodes['1260']); //=> 'Nyon'
 ```
@@ -40,9 +40,9 @@ See the [demo](https://williambelle.github.io/switzerland-postal-codes/).
 Data
 ----
 
-  - Postal codes based on the [official postal codes database][1] from Swiss Post
-  - Geolocation based on the [Geonames database][2] licensed under a [Creative
-    Commons Attribution 3.0 License][3].
+* Postal codes based on the [official postal codes database][1] from Swiss Post
+* Geolocation based on the [Geonames database][2] licensed under a [Creative
+  Commons Attribution 3.0 License][3].
 
 Contributing
 ------------
@@ -54,7 +54,7 @@ See [Contributing](CONTRIBUTING.md).
 Developer
 ---------
 
-  * [William Belle](https://github.com/williambelle)
+* [William Belle](https://github.com/williambelle)
 
 License
 -------
