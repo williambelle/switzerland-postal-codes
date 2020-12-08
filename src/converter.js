@@ -2,13 +2,13 @@
 
 'use strict';
 
-var fs = require('fs');
+const fs = require('fs');
 
-var codes = {};
-var full = {};
-var data = fs.readFileSync('data/postal-codes.tsv', 'utf8');
+const codes = {};
+const full = {};
+const data = fs.readFileSync('data/postal-codes.tsv', 'utf8');
 data.split('\n').forEach(function (row) {
-  var columns = row.split('\t');
+  const columns = row.split('\t');
   if (columns.length === 5) {
     if (columns[0] in codes) {
       codes[columns[0]] = codes[columns[0]] + ' - ' + columns[1];
@@ -16,7 +16,7 @@ data.split('\n').forEach(function (row) {
       codes[columns[0]] = columns[1];
     }
     if (columns[0] in full) {
-      var list = full[columns[0]];
+      const list = full[columns[0]];
       list.push(createObj(columns));
       full[columns[0]] = list;
     } else {
