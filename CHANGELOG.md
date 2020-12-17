@@ -1,6 +1,15 @@
 Changelog
 =========
 
+### v5.0.0 / 2020-12-17
+
+  - Drop support for Node < 10
+  - Update postal codes
+  - Update and clean dependencies
+  - Test against Node.js 15
+  - Migrate from Travis CI to GitHub Actions
+  - Migrate from david-dm.org to libraries.io
+
 ### v4.0.1 / 2020-08-20
 
   - Update dev dependencies
