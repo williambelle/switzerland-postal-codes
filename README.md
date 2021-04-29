@@ -3,7 +3,6 @@ switzerland-postal-codes
 
 [![Build Status][github-actions-image]][github-actions-url]
 [![Coverage Status][coverage-image]][coverage-url]
-[![Dependencies Status][librariesio-image]][librariesio-url]
 [![NPM version][npm-image]][npm-url]
 
 Switzerland postal codes Javascript module.
@@ -70,5 +69,3 @@ The MIT License (MIT)
 [github-actions-url]: https://github.com/williambelle/switzerland-postal-codes/actions
 [coverage-image]: https://coveralls.io/repos/github/williambelle/switzerland-postal-codes/badge.svg
 [coverage-url]: https://coveralls.io/github/williambelle/switzerland-postal-codes
-[librariesio-image]: https://img.shields.io/librariesio/github/williambelle/switzerland-postal-codes
-[librariesio-url]: https://libraries.io/github/williambelle/switzerland-postal-codes
