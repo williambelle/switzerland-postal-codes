@@ -10,7 +10,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        node: [ '10', '12', '14', '15', '16' ]
+        node: [ '10', '12', '14', '16', '17' ]
 
     steps:
       - name: Clone repository
